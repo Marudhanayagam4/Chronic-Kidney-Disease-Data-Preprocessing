@@ -22,6 +22,14 @@ https://www.kaggle.com/code/niteshyadav3103/chronic-kidney-disease-prediction-98
 - numpy
 - scikit-learn
 
+  
+## Results
+- A clean dataset ready for analysis or model development.
+- Summary of the data transformation techniques applied.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## Installation
 
 To get started, clone the repository and install the required packages:
@@ -31,9 +39,4 @@ git clone https://github.com/Marudhanayagam4/Chronic-Kidney-Disease-Data-Preproc
 cd Chronic-Kidney-Disease-Data-Preprocessing
 pip install -r requirements.txt
 
-## Results
-- A clean dataset ready for analysis or model development.
-- Summary of the data transformation techniques applied.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
